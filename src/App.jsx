@@ -18,11 +18,11 @@ const fadeIn = {
 };
 
 const customerLogos = [
-  "public/Logos/Logo_1.png",
+  "Logos/Logo_1.png",
   "/logos/Logo_2.png",
   "/logos/Logo_3.png",
   "/logos/Logo_4.png",
-  "/logos/Logo_5.png"
+  "/logos/Logo_5.png",
 ];
 
 const teamMembers = [
