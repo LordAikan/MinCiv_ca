@@ -18,11 +18,11 @@ const fadeIn = {
 };
 
 const customerLogos = [
-  "https://storage.googleapis.com/hostinger-horizons-assets-prod/49e0f8c4-5ba5-4d19-9d94-b238dea397ec/de9b8b37a6b007b861e320fea1dafee6.png",
-  "https://storage.googleapis.com/hostinger-horizons-assets-prod/49e0f8c4-5ba5-4d19-9d94-b238dea397ec/659e56cc114e9415831908d033590827.png",
-  "https://storage.googleapis.com/hostinger-horizons-assets-prod/49e0f8c4-5ba5-4d19-9d94-b238dea397ec/4a30a77f7ba7f6595bfc0442116ff0c4.png",
-  "https://storage.googleapis.com/hostinger-horizons-assets-prod/49e0f8c4-5ba5-4d19-9d94-b238dea397ec/566f443e5303f6c0e3d7d835aac72129.png",
-  "https://storage.googleapis.com/hostinger-horizons-assets-prod/49e0f8c4-5ba5-4d19-9d94-b238dea397ec/266e156281c9e4163fb91ea1e13c3b96.png"
+  "/logos/Logo_1.png",
+  "/logos/Logo_2.png",
+  "/logos/Logo_3.png",
+  "/logos/Logo_4.png",
+  "/logos/Logo_5.png"
 ];
 
 const teamMembers = [
