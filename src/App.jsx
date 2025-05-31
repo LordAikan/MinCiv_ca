@@ -145,12 +145,12 @@ export default function App() {
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-2 gap-8">
             <img 
-              src="https://storage.googleapis.com/hostinger-horizons-assets-prod/49e0f8c4-5ba5-4d19-9d94-b238dea397ec/13ffdce264c21df80bb84e0011614836.webp"
+              src="Logos/Fondo1.jpg"
               alt="Mining ventilation equipment"
               className="w-full h-[400px] object-cover rounded-lg"
             />
             <img 
-              src="https://storage.googleapis.com/hostinger-horizons-assets-prod/49e0f8c4-5ba5-4d19-9d94-b238dea397ec/31293c1f84a7f702cad64b368c412867.jpg"
+              src="Logos/Fondo2.jfif"
               alt="Underground mining operations"
               className="w-full h-[400px] object-cover rounded-lg"
             />
