@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Logo and Copyright */}
           <div>
-            <h2 className="text-2xl font-bold gradient-text mb-2">MVC Consulting</h2>
+            <h2 className="text-2xl font-bold gradient-text mb-2">MinCiv</h2>
             <p className="text-muted-foreground">Mining Ventilation Specialists</p>
           </div>
 
@@ -22,12 +22,12 @@ export default function Footer() {
               <p className="text-muted-foreground">
   Email:{" "}
   <a
-    href="https://mail.google.com/mail/?view=cm&fs=1&to=info@mvcconsulting.ca"
+    href="https://mail.google.com/mail/?view=cm&fs=1&to=info@minciv.ca"
     target="_blank"
     rel="noopener noreferrer"
     className="text-primary hover:underline"
   >
-    info@mvcconsulting.ca
+    info@minciv.ca
   </a>
 </p>
 
@@ -63,7 +63,7 @@ export default function Footer() {
         {/* Bottom Copyright */}
         <div className="mt-12 pt-8 border-t border-border">
           <p className="text-sm text-muted-foreground text-center">
-            © 2025 MVC Consulting. All rights reserved.
+            © 2025 MinCiv Consulting. All rights reserved.
           </p>
         </div>
       </div>
