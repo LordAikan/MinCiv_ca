@@ -145,12 +145,12 @@ export default function App() {
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-2 gap-8">
             <img 
-              src="Logos/Fondo1.jpg"
+              src="/Logos/Fondo1.jpg"
               alt="Mining ventilation equipment"
               className="w-full h-[400px] object-cover rounded-lg"
             />
             <img 
-              src="Logos/Fondo2.jfif"
+              src="/Logos/Fondo2.jfif"
               alt="Underground mining operations"
               className="w-full h-[400px] object-cover rounded-lg"
             />
